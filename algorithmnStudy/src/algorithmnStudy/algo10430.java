@@ -1,5 +1,4 @@
 package algorithmnStudy;
-
 import java.util.Scanner;
 
 public class algo10430 {
